@@ -8,6 +8,16 @@ https://colab.research.google.com/drive/1dx8PRKFF_ZmROdlZ_nWuAjw45ju55Z-k?usp=sh
 CNN_explanation
 https://colab.research.google.com/drive/1IthVIhRW-tiChFOWZQNaLR9FVu1yYgO3?usp=sharing
 
+Image_generation
+https://colab.research.google.com/drive/1OZBQ5BBuxZiAV5HnjSvpQTM2gYCoQuvh?usp=sharing
+
+cnn_detailed_with_visuals
+https://colab.research.google.com/drive/1oQt49PjE1Q4kn3INq2wJRjw5gNr3qbLt?usp=sharing
+
+
+nlp_basics
+https://colab.research.google.com/drive/1jWluR0GRCaSJGzVs7MytxuOD87w80qhe?usp=sharing
+
 # Multi Object Tracking using OpenCV
 This repository contains the code for [MultiTracker : Multiple Object Tracking using OpenCV (C++/Python)](https://www.learnopencv.com/multitracker-multiple-object-tracking-using-opencv-c-python/) blog.
 
