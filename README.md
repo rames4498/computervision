@@ -2,6 +2,11 @@
 Pytorch_basics
 https://colab.research.google.com/drive/11KhkWdDX-iM2CRtIP8QV3b6N0NW2RH_m?usp=sharing
 
+CNN_Actor_classification
+https://colab.research.google.com/drive/1dx8PRKFF_ZmROdlZ_nWuAjw45ju55Z-k?usp=sharing
+
+CNN_explanation
+https://colab.research.google.com/drive/1IthVIhRW-tiChFOWZQNaLR9FVu1yYgO3?usp=sharing
 
 # Multi Object Tracking using OpenCV
 This repository contains the code for [MultiTracker : Multiple Object Tracking using OpenCV (C++/Python)](https://www.learnopencv.com/multitracker-multiple-object-tracking-using-opencv-c-python/) blog.
